@@ -9,7 +9,7 @@ A production-grade, containerized web application that automates the generation 
 
 ---
 
-## ⚡ How It Works
+## How It Works
 
 **Input:** A `.zip` file containing raw earring product photographs.  
 **Engine:** A single-pass ISNet extraction, custom shadow compositing, and Claid.ai's fashion generative model.  
@@ -22,7 +22,7 @@ A production-grade, containerized web application that automates the generation 
 
 ---
 
-## 🚀 Quick Start (Docker)
+## Quick Start (Docker)
 
 The entire application runs inside a portable Docker container with no manual dependency installation required.
 
@@ -44,7 +44,7 @@ The entire application runs inside a portable Docker container with no manual de
 
 ---
 
-## 🏗️ Project Structure
+## Project Structure
 
 This repository contains the final production system (`app.py`) along with standalone reference modules (`core/`) that break down the technical logic for educational and portfolio review purposes.
 
@@ -67,7 +67,7 @@ AkshayKala-AI-Studio/
 
 ---
 
-## 🛠️ Technology Stack
+## Technology Stack
 
 | Category | Technology |
 |---|---|
@@ -80,11 +80,11 @@ AkshayKala-AI-Studio/
 
 ---
 
-## 📖 Documentation
+## Documentation
 
 For a deep dive into the engineering decisions, memory optimization (solving OOM crashes), and prompt engineering (solving anatomical scaling anomalies), please refer to the [Project Report](docs/Project_Report.md).
 
 ---
 
-## 🤝 Acknowledgements
+## Acknowledgements
 Developed by **Sankalp Samarth** for the AkshayKala AI Studio.
