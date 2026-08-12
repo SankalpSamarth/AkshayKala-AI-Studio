@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+*.egg-info/
+
+# Runtime artifacts
+gradio_temp/
+temp_processing/
+Final_Mockups.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Credentials (never commit)
+.env
+api_keys.json
